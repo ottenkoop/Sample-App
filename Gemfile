@@ -12,11 +12,11 @@ group :assets do
 end
 
 group :development do
-	gem 'rspec-rails', '2.0.0'
+	gem 'rspec-rails', '2.9.0'
 end
 
 group :test do
-	gem 'rspec', '2.0.0'
+	gem 'rspec', '2.9.0'
 end
 
 gem 'jquery-rails'
